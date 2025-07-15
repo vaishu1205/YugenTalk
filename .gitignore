@@ -1,0 +1,21 @@
+# Node Modules (Frontend)
+frontend/node_modules/
+
+# Build folders
+**/build/
+**/dist/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java & Spring Boot
+backend/target/
+*.class
+
+# Environment files
+.env
